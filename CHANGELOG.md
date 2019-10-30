@@ -4,7 +4,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 Please follow the format in [Keep a Changelog](http://keepachangelog.com/)
 
-## [Unreleased]
+## [6.2.0] - 2019-10-30
 
 ### Added
 
